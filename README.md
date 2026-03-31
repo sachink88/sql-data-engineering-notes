@@ -1,30 +1,42 @@
-# 📊 SQL Data Engineering Notes
 
-This repository contains my SQL learning journey and structured notes.
+# SQL Data Engineering Notes
 
-## 📘 Contents
+A comprehensive repository for learning SQL from fundamentals to advanced concepts with practical examples.
 
-- SQL Foundation (DBMS, RDBMS, DDL, DML, DQL)
-- SQL Keywords Cheat Sheet
-- SQL Operators (Comparison & Logical)
-- Cross-Database Comparison (SQL Server, MySQL, PostgreSQL, Oracle)
-- Practice Queries
+## 📚 Table of Contents
 
-## 🎯 Goal
+1. [SQL Foundation](sql_foundation.md)
+2. [SQL Keywords Cheatsheet](sql_keywords_cheatsheet.md)
+3. [SQL Operators](sql_operators.md)
+4. [SQL Data Types](sql_datatypes.md)
+5. [SQL Constraints](sql_constraints.md)
+6. [SQL Functions](sql_functions.md)
+7. [SQL Joins](sql_joins.md)
+8. [SQL Subqueries](sql_subqueries.md)
+9. [SQL Window Functions](sql_window_functions.md)
+10. [SQL Optimization](sql_optimization.md)
+11. [SQL Database Systems](sql_database_systems.md)
 
-To build strong SQL fundamentals for transitioning into Data Engineering.
+## 🛠 Practice Section
 
-## 🛠 Databases Covered
+- [Practice Queries](practice/queries.sql)
+- [Sample Datasets](practice/datasets.sql)
+- [Solutions](practice/solutions.sql)
 
-- SQL Server
-- MySQL
-- PostgreSQL
-- Oracle
+## 🚀 Getting Started
 
-## 🚀 Next Steps
+1. Clone this repository
+2. Set up your SQL environment (MySQL, PostgreSQL, SQL Server, etc.)
+3. Practice with the provided datasets
+4. Check solutions after attempting exercises
 
-- Advanced SQL (Joins, Window Functions)
-- Real-world datasets
-- Data Engineering pipelines
+## 📖 Learning Path
 
----
+1. **Beginner**: Foundation → Data Types → Constraints → Basic Queries
+2. **Intermediate**: Joins → Subqueries → Functions → Aggregations
+3. **Advanced**: Window Functions → Optimization → Database Systems
+
+## 🤝 Contributing
+
+Contributions are welcome! Please fork and submit pull requests for any improvements or additional content.
+
