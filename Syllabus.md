@@ -1,4 +1,4 @@
-a# 🎓 SQL Mastery Syllabus & Navigation  
+# 🎓 SQL Mastery Syllabus & Navigation  
 ## A Roadmap from Data Basics to Architectural Excellence  
 
 This document provides a granular breakdown of every topic covered in this repository. Each section is designed to build upon the last, ensuring a smooth transition from basic queries to advanced performance tuning.
